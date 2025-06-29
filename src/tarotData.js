@@ -50,11 +50,6 @@ const tarotInutil = [
     icono: "📺"
   },
   {
-    nombre: "El Control Remoto Perdido",
-    descripcion: "Solo aparece cuando no lo necesitas. Ama jugar a las escondidas.",
-    icono: "📺"
-  },
-  {
     nombre: "El Unicornio Sarcástico",
     descripcion: "Brilla, pero solo para burlarse de ti. Puro glitter con juicio.",
     icono: "🦄"
