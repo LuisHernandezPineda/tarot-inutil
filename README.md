@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<<<<<<< HEAD
+=======
+
+
+---
+## Proyecto refactorizado
+- Datos movidos a `src/data/tarotData.json` con IDs.
+- Colores en `src/constants/colores.js`.
+- Lógica en `src/lib/tarot.js` con JSDoc y modo aleatorio.
+- Componente `Card` creado en `src/components/Card.jsx`.
+- `App.jsx` actualizado para usar el nuevo módulo.
+>>>>>>> 5bf1947 (Refactor: carta diaria única por usuario + modularización)
