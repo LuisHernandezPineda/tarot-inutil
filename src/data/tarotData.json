@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "nombre": "El Pingüino Emocional",
+    "descripcion": "Frío por fuera, dramático por dentro. Como un cubito llorando.",
+    "icono": "🐧"
+  },
+  {
+    "id": 2,
+    "nombre": "La Gelatina Sin Control",
+    "descripcion": "Temblarás, pero no sabrás si es por miedo o por alegría tropical.",
+    "icono": "🍮"
+  },
+  {
+    "id": 3,
+    "nombre": "El WiFi Espiritual",
+    "descripcion": "Te conectas con el universo... pero solo si la señal es buena.",
+    "icono": "📶"
+  },
+  {
+    "id": 4,
+    "nombre": "La Sombra del Pan",
+    "descripcion": "Siempre estás, pero nadie te aprecia hasta que desapareces.",
+    "icono": "🍞"
+  },
+  {
+    "id": 5,
+    "nombre": "El Aguacate Místico",
+    "descripcion": "Maduras cuando no te miran. Eres una contradicción cremosa.",
+    "icono": "🥑"
+  },
+  {
+    "id": 6,
+    "nombre": "La Chancla Voladora",
+    "descripcion": "Te persigue desde el pasado. Siempre da en el blanco.",
+    "icono": "🩴"
+  },
+  {
+    "id": 7,
+    "nombre": "El Gato Iluminado",
+    "descripcion": "Maúlla verdades que nadie pidió. Observa tu alma mientras duermes.",
+    "icono": "🐱"
+  },
+  {
+    "id": 8,
+    "nombre": "El Ventilador Existencial",
+    "descripcion": "Da vueltas sin saber por qué. Como tú los lunes.",
+    "icono": "🌀"
+  },
+  {
+    "id": 9,
+    "nombre": "La Papa Reveladora",
+    "descripcion": "En su simpleza, esconde la sabiduría milenaria del sofá.",
+    "icono": "🥔"
+  },
+  {
+    "id": 10,
+    "nombre": "El Control Remoto Perdido",
+    "descripcion": "Solo aparece cuando no lo necesitas. Ama jugar a las escondidas.",
+    "icono": "📺"
+  },
+  {
+    "id": 11,
+    "nombre": "El Unicornio Sarcástico",
+    "descripcion": "Brilla, pero solo para burlarse de ti. Puro glitter con juicio.",
+    "icono": "🦄"
+  },
+  {
+    "id": 12,
+    "nombre": "La Taza con Café Frío",
+    "descripcion": "Tenías sueños... pero se te enfriaron.",
+    "icono": "☕"
+  },
+  {
+    "id": 13,
+    "nombre": "El Meme Ancestral",
+    "descripcion": "Tu humor viene de otras vidas. Ríes, pero no sabes por qué.",
+    "icono": "📜"
+  },
+  {
+    "id": 14,
+    "nombre": "El Sandwich Triste",
+    "descripcion": "Fuiste preparado con amor, pero olvidaron la mayonesa.",
+    "icono": "🥪"
+  },
+  {
+    "id": 15,
+    "nombre": "La Planta Que Te Juzga",
+    "descripcion": "No necesita palabras. Solo observa... decepcionada.",
+    "icono": "🪴"
+  },
+  {
+    "id": 16,
+    "nombre": "El Dado del Caos",
+    "descripcion": "Tiras y sale lunes. Siempre.",
+    "icono": "🎲"
+  },
+  {
+    "id": 17,
+    "nombre": "La Nube de Pensamientos",
+    "descripcion": "Tantas ideas, pero todas se van con el viento.",
+    "icono": "☁️"
+  },
+  {
+    "id": 18,
+    "nombre": "El Calcetín Rebelde",
+    "descripcion": "Nunca está con su par. Vive bajo sus propias reglas.",
+    "icono": "🧦"
+  },
+  {
+    "id": 19,
+    "nombre": "La Vaca Cósmica",
+    "descripcion": "Muge profecías que solo entienden los iluminados.",
+    "icono": "🐄"
+  },
+  {
+    "id": 20,
+    "nombre": "El Caracol Apurado",
+    "descripcion": "Siempre tiene prisa, pero llega tarde. Como tú.",
+    "icono": "🐌"
+  },
+  {
+    "id": 21,
+    "nombre": "El Espejo Crítico",
+    "descripcion": "Refleja más tus inseguridades que tu peinado.",
+    "icono": "🪞"
+  },
+  {
+    "id": 22,
+    "nombre": "El Helado Filosófico",
+    "descripcion": "Se derrite mientras reflexiona sobre el tiempo.",
+    "icono": "🍦"
+  },
+  {
+    "id": 23,
+    "nombre": "La Lapicera de los Secretos",
+    "descripcion": "Escribe sola por las noches. Nadie sabe qué cuenta.",
+    "icono": "🖊️"
+  },
+  {
+    "id": 24,
+    "nombre": "El Galleta Ninja",
+    "descripcion": "Crujiente, sigilosa, y te ataca cuando menos lo esperas.",
+    "icono": "🥠"
+  },
+  {
+    "id": 25,
+    "nombre": "El Queso del Destino",
+    "descripcion": "Entre más viejo, más sabio... y más huele.",
+    "icono": "🧀"
+  },
+  {
+    "id": 26,
+    "nombre": "La Mochila Emocional",
+    "descripcion": "Cargas con ella desde 2009. Llena de cosas que ya no usas.",
+    "icono": "🎒"
+  },
+  {
+    "id": 27,
+    "nombre": "El Camaleón Indeciso",
+    "descripcion": "Cambia de color... pero nunca de opinión.",
+    "icono": "🦎"
+  },
+  {
+    "id": 28,
+    "nombre": "El Semáforo Interior",
+    "descripcion": "Siempre está en rojo cuando quieres avanzar.",
+    "icono": "🚦"
+  },
+  {
+    "id": 29,
+    "nombre": "La Escalera Hacia Ninguna Parte",
+    "descripcion": "Subes y subes, pero llegas al mismo lugar.",
+    "icono": "🪜"
+  },
+  {
+    "id": 30,
+    "nombre": "El Tenedor de la Verdad",
+    "descripcion": "Pincha tus excusas con elegancia.",
+    "icono": "🍴"
+  },
+  {
+    "id": 31,
+    "nombre": "El Cubito Existencial",
+    "descripcion": "Te enfrentas al derretimiento inevitable de tus planes.",
+    "icono": "🧊"
+  },
+  {
+    "id": 32,
+    "nombre": "La Croqueta del Karma",
+    "descripcion": "Lo que lanzas, regresa. Especialmente si es frito.",
+    "icono": "🥟"
+  },
+  {
+    "id": 33,
+    "nombre": "El Hámster del Tiempo",
+    "descripcion": "Corre en la rueda del pasado, ignorando el futuro.",
+    "icono": "🐹"
+  },
+  {
+    "id": 34,
+    "nombre": "La Sardina del Caos",
+    "descripcion": "Estás atrapado en una lata de decisiones confusas.",
+    "icono": "🐟"
+  },
+  {
+    "id": 35,
+    "nombre": "La Calculadora Emocional",
+    "descripcion": "Suma lágrimas, resta esperanza, multiplica drama.",
+    "icono": "🧮"
+  },
+  {
+    "id": 36,
+    "nombre": "El Cactus Sensible",
+    "descripcion": "Parece fuerte, pero llora con novelas turcas.",
+    "icono": "🌵"
+  },
+  {
+    "id": 37,
+    "nombre": "La Aspiradora Espiritual",
+    "descripcion": "Absorbe tu energía y no devuelve ni el alma.",
+    "icono": "🧹"
+  },
+  {
+    "id": 38,
+    "nombre": "El Conejo Hipervigilante",
+    "descripcion": "Siempre alerta. Nunca descansa. Sospecha de todos.",
+    "icono": "🐇"
+  },
+  {
+    "id": 39,
+    "nombre": "El Cepillo Desesperado",
+    "descripcion": "Intenta poner orden en tu caos... y falla.",
+    "icono": "🪥"
+  },
+  {
+    "id": 40,
+    "nombre": "El Paraguas del Olvido",
+    "descripcion": "Solo aparece cuando no llueve, y se va cuando lo necesitas.",
+    "icono": "🌂"
+  },
+  {
+    "id": 41,
+    "nombre": "El Astronauta de Interior",
+    "descripcion": "Exploras universos... sin salir de tu cama.",
+    "icono": "👨‍🚀"
+  },
+  {
+    "id": 42,
+    "nombre": "El Zancudo del Juicio",
+    "descripcion": "Te juzga mientras duermes. Y te pica el ego.",
+    "icono": "🦟"
+  },
+  {
+    "id": 43,
+    "nombre": "La Sandía Censurada",
+    "descripcion": "Tiene secretos jugosos, pero no te los dirá.",
+    "icono": "🍉"
+  },
+  {
+    "id": 44,
+    "nombre": "La Bicicleta del Destino",
+    "descripcion": "Siempre sin frenos, y cuesta arriba.",
+    "icono": "🚲"
+  },
+  {
+    "id": 45,
+    "nombre": "El Papel Higiénico Sagrado",
+    "descripcion": "Se acaba en los momentos más críticos. Como la paciencia.",
+    "icono": "🧻"
+  },
+  {
+    "id": 46,
+    "nombre": "El Búho Pasivo-Aggresivo",
+    "descripcion": "Te observa. Juzga tus elecciones. No dice nada.",
+    "icono": "🦉"
+  },
+  {
+    "id": 47,
+    "nombre": "La Sirena del Tráfico Emocional",
+    "descripcion": "Hace ruido, pero nadie escucha tus sentimientos.",
+    "icono": "🚨"
+  },
+  {
+    "id": 48,
+    "nombre": "El Clip del Destino",
+    "descripcion": "Une cosas que jamás debieron ir juntas.",
+    "icono": "📎"
+  },
+  {
+    "id": 49,
+    "nombre": "La Mariposa Bipolar",
+    "descripcion": "Hoy revoloteas, mañana colapsas.",
+    "icono": "🦋"
+  },
+  {
+    "id": 50,
+    "nombre": "El Botón de Repetir",
+    "descripcion": "Estás atrapado en el loop. Otra vez. Y otra.",
+    "icono": "🔁"
+  },
+  {
+    "id": 51,
+    "nombre": "La Banana Existencial",
+    "descripcion": "No sabes si estás listo, pero igual te pelan.",
+    "icono": "🍌"
+  },
+  {
+    "id": 52,
+    "nombre": "El Semáforo Moral",
+    "descripcion": "Verde para el drama, rojo para las soluciones.",
+    "icono": "🚦"
+  },
+  {
+    "id": 53,
+    "nombre": "El VHS de Tus Decisiones",
+    "descripcion": "Rebobina tu pasado, pero nunca mejora la trama.",
+    "icono": "📼"
+  },
+  {
+    "id": 54,
+    "nombre": "La Taza Agrietada",
+    "descripcion": "Sostiene tus emociones... hasta que se derraman.",
+    "icono": "🍵"
+  },
+  {
+    "id": 55,
+    "nombre": "El Reloj del Absurdo",
+    "descripcion": "Marca las horas, pero ninguna tiene sentido.",
+    "icono": "🕰️"
+  },
+  {
+    "id": 56,
+    "nombre": "El Gallo Profético",
+    "descripcion": "Canta revelaciones, pero solo a las 3am.",
+    "icono": "🐓"
+  },
+  {
+    "id": 57,
+    "nombre": "El Limón Rencoroso",
+    "descripcion": "Nunca olvida lo que hiciste. Te exprimirá por ello.",
+    "icono": "🍋"
+  },
+  {
+    "id": 58,
+    "nombre": "El Trapeador del Alma",
+    "descripcion": "Limpia tus emociones, pero deja rayas de trauma.",
+    "icono": "🧼"
+  },
+  {
+    "id": 59,
+    "nombre": "El Fósforo Filosófico",
+    "descripcion": "Arde rápido, pero ilumina pensamientos oscuros.",
+    "icono": "🕯️"
+  },
+  {
+    "id": 60,
+    "nombre": "La Cabra del WiFi",
+    "descripcion": "Te desconectas cada vez que ella lo decide.",
+    "icono": "🐐"
+  }
+]
